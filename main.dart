@@ -1,6 +1,4 @@
 
-import 'dart:developer';
-
 import 'animal.dart';
 
 void main() {
