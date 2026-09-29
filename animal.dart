@@ -1,13 +1,13 @@
 
 // Класс - это чертеж для объекта
-class Person {
+class Animal {
   // Поля класса - это материалы для объекта
   String _name;
   int _age;
   String _superPower;
 
   //Конструктор - это строитель для объекта
-  Person(
+  Animal(
     this._name,
     this._age,
     this._superPower

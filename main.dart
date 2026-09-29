@@ -1,12 +1,12 @@
 
 import 'dart:developer';
 
-import 'person.dart';
+import 'animal.dart';
 
 void main() {
   //(Название класса) (название объекта) = (название конструктора);
-  Person person = Person("Iron-Man", 47, "Богатый умный");
-  Person person2 = Person("Ronaldo", 41, "Патриот");
+  Animal person = Animal("Iron-Man", 47, "Богатый умный");
+  Animal person2 = Animal("Ronaldo", 41, "Патриот");
 
   //(Тип данных) (название переменной) = (значание переменной);
   String www = "Geeks";
